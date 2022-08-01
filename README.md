@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaitlynnewsad
 - 👀 I’m interested in web developement.
-- 🌱 I’m currently learning web developement skills on LinkedIn Learning.
+- 🌱 I’m currently learning web developement skills on LinkedIn Learning and Frontend Mentor.
 - 📫 How to reach me knewsad@gmail.com
 
 <!---
