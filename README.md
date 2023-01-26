@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaitlynnewsad
-- 👀 I’m interested in getting an internship in the tech field.
+- 👀 I’m interested in getting an job in the tech field.
 - 🌱 I’m currently learning TypeScript and Angular.
 - 📫 How to reach me knewsad@gmail.com
 
